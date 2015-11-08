@@ -12,4 +12,4 @@ Download here(SRC-zip):
 --1:install mcforge(here:http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html)--
 --2:put in mods folder(created in mc directory after launch or create one)
 --3:enjoy playing with this mod ^^                                                                   
-                                --
+                                                          --
