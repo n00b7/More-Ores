@@ -3,8 +3,8 @@ Adds More ores and armor and tools and ingots to minecraft(Warning in Alpha)
 Please test    
 NOTE: i do not archive old versions unless new version is for different minecraft!                                      
 # ScreenShots                                                                                                           
-Download here(jarfile-compiled): https://github.com/n00b7/More-Ores/releases/download/alpha-1.0/more-ores-1.1.jar            
-Download here(SRCdev-zip): https://github.com/n00b7/More-Ores/releases/download/alpha-1.0/More-Ores-alpha-1.1-src.zip
+Download here(jarfile-compiled): https://github.com/n00b7/More-Ores/releases/download/alpha-1.1/more-ores-1.1.jar            
+Download here(SRCdev-zip): https://github.com/n00b7/More-Ores/releases/download/alpha-1.1/More-Ores-alpha-1.1-src.zip
 #setting up the src:                                                                                                    
 --1:download and set up eclipse(here:https://www.eclipse.org) in                                                        mc-forge-src(here:https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html)--                  
 --2:extract src and merge with exsisting src--                                                                          
