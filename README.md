@@ -1,4 +1,10 @@
-# More-Ores                                                                                                             
+# More-Ores Dev/News  
+More Ores Alpha 2.0 is in development
+notible changes:
+more animated textures(working on it)
+world generation lag kinda fixed(done)(when generating new world may take some time still so please be patient)
+
+
 Adds More ores and armor and tools and ingots to minecraft(Warning in Alpha)                                            
 Please test    
 NOTE: i do not archive old versions unless new version is for different minecraft!                                      
@@ -6,7 +12,6 @@ NOTE: i do not archive old versions unless new version is for different minecraf
 ![2015-11-25_09 43 13](https://cloud.githubusercontent.com/assets/11874683/11400208/f9d6c806-9359-11e5-9c1b-9df24e053db7.png)
 ![2015-11-25_09 45 09](https://cloud.githubusercontent.com/assets/11874683/11400209/f9e41d9e-9359-11e5-90f8-96add208acb1.png)
 ![2015-11-25_09 37 04](https://cloud.githubusercontent.com/assets/11874683/11400207/f9cd4f88-9359-11e5-952f-9b571aefb61f.png)
-
 Download here(jarfile-compiled): https://github.com/n00b7/More-Ores/releases/download/alpha-1.1/more-ores-1.1a.jar           
 Download here(SRCdev-zip): https://github.com/n00b7/More-Ores/releases/download/alpha-1.1/More-Ores-alpha-1.1-src.zip
 #setting up the src:                                                                                                    
