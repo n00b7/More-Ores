@@ -24,6 +24,8 @@ ller.jar) and then click install client
 5. go in the mods folder and if you use multiple versions of forge make a new folder in c:/temp named 1.7.10
 6. put the .jar file named more-ores-alpha 2.0(here: NOT OUT YET!) in the 1.7.10 folder
 7. run the client
+# instuctions for setting up
+
 # set up src
 1. download eclipse from here(eclipse.org)
 2. download mcforge dev from here
