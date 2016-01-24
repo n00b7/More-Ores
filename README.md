@@ -1,7 +1,5 @@
 # More-Ores Dev/News  
-More Ores Alpha 2.0 is officily out!
-
-
+More Ores Alpha 2.0 is officialy released to the public
 Adds More ores and armor and tools and ingots to minecraft(Warning in Alpha)                                            
 Please test    
 NOTE: i do not archive old versions unless new version is for different minecraft!                                      
