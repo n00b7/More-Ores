@@ -23,7 +23,7 @@ ller.jar) and then click install client
 
 # set up src
 1. download eclipse from here(eclipse.org)
-2. download mcforge dev from here( http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-src.zip ) and more-ores alpha 2.0 src.zip from here: https://github.com/n00b7/More-Ores/releases/download/alpha-2.0/more-ores-alpha-2.1-src.zip
+2. download mcforge dev from here( http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-src.zip ) and more-ores alpha 2.1 src.zip from here: https://github.com/n00b7/More-Ores/releases/download/alpha-2.0/more-ores-alpha-2.1-src.zip
 
 3. extract the .zip named: forge-1.7.10-10.13.4.1614-1.7.10-src in a new folder named 1.7.10
 4. shift - right click in the 1.7.10 folder and click open command window
