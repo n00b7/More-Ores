@@ -13,8 +13,7 @@ note:these are kinda outdated
 # instuctions for setting up
 1. install java download here (java.com)
 2. download minecraft from here (minecraft.net/download) and make sure to lauch 1.7.10
-3. download forge and run .jar file download here (http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-insta
-ller.jar) and then click install client
+3. download forge and run .jar file download here (http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar) and then click install client
 4. go to your minecraft directory by default %appdata%/.minecraft then create folder(if not there) and name it mods
 5. go in the mods folder and if you use multiple versions of forge make a new folder in c:/temp named 1.7.10
 6. put the .jar file named more-ores-alpha-2.1(here:https://github.com/n00b7/More-Ores/releases/download/alpha-2.0/more-ores-alpha.2.1.jar ) in the 1.7.10 folder
