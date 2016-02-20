@@ -1,7 +1,6 @@
 # More-Ores Dev/News  
+More Ores 3.0[1.8.9 Minecraft-Forge] in development!!!(Moreores for mc 1.7.10 will be archived!!)
 More Ores Alpha 2.0 is officialy released to the public! 
-
-
 Adds More ores and armor and tools and ingots to minecraft(Warning in Alpha)                                            
 Please test    
 NOTE: i do not archive old versions unless new version is for different minecraft!                                      
